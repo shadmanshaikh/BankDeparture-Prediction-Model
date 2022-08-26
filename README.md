@@ -10,7 +10,7 @@ Considering a bank having many customers and the probability of them leaving/exi
 
 ## Topics to know
 
-Incase you are not familiar with Self-Organising Maps go through some reasearch paper provided below.</br>
+Incase you are not familiar with Artificial Neural Network ,  go through some reasearch paper provided below.</br>
 * Yann LeCun et al., 1998,[ Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)</br>
 * By Xavier Glorot et al., 2011 [Deep sparse rectifier neural networks](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf)
 
